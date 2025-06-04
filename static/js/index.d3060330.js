@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["index"],[],[[0,"runtime","chunk-buffer","chunk-vue","chunk-uni-h5","chunk-core-js","chunk-vendors"]]]);
